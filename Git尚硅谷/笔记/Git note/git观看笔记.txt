@@ -86,6 +86,6 @@ excludesfile = C:/Users/zhaoyingjie/git.ignore
 
 配置idea：
 	在设置里配置Git，登录GitHub账号
-	账号口令token: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
+	账号口令token:
 
-	gitee: SHA256:OoS2pEkCtVJKSBgYqCBOSMqVhReW7aqFnFX4lqQc9f4
+	gitee: 
