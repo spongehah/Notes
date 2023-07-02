@@ -1,23 +1,24 @@
 # Notes
 
 #### 介绍
-spongehah's study notes
+- spongehah's study notes
+- JaveEE学习中......
+- 内置我的学习笔记，包括自写笔记、老师笔记、部分上课代码、部分资料、部分软件包
+- 配套视频主要为尚硅谷
 
 #### 软件架构
 软件架构说明
 
 
-#### 安装教程
+#### 下载方法
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1.  下载zib文件夹
+2.  clone到本地库
+3.  idea直接pull
 
 #### 使用说明
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+根据自写笔记看代码和课件
 
 #### 参与贡献
 
